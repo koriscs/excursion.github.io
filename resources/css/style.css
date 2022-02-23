@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.content h1 {
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color: aquamarine;
+    font-size: 16px;
+    border-bottom: 1px aquamarine;
+} 
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+h3 {
+    text-align: right;
+    color: grey;
+}
